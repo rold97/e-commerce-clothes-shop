@@ -5,5 +5,12 @@
 @layer base {
   body {
     @apply font-primary text-primary;
+    margin: 0;
+    padding: 0;
   }
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
